@@ -12,7 +12,7 @@ function Navbar() {
                 <button><FaBeer/></button>
             </div> */}
 
-            <ul className='flex space-x-4 md:space-x-6'>
+            <ul className='hidden md:flex space-x-4 md:space-x-6'>
                 <li>Home</li>
                 <li>Products</li>
                 <li>Blogs</li>
